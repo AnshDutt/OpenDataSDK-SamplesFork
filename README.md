@@ -11,7 +11,7 @@ The Bank Of Api SDK is an Open Source project that provides Software Development
 
 # Quick links
 
-| [Getting Started](README.md#Getting-Started) | [Home](https://github.com/dheerajrinku93/OpenDataSDKDocs/wiki) | [Samples](https://github.com/dheerajrinku93/OpenDataSDK-Samples) | [Support](README.md#) | [Feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=Wq6idgCfa0-V7V0z13xNYZ7nnvAosjxDh7243hA8A6lUOUZSTDA4OTYyQlZXTU00UzNTQ1JFNDkzUS4u) |
+| [Getting Started](README.md#Getting-Started) | [Home](https://github.com/dheerajrinku93/OpenDataSDKDocs/wiki) | [Samples](https://github.com/dheerajrinku93/OpenDataSDK-Samples) | [Feedback](https://forms.office.com/Pages/ResponsePage.aspx?id=Wq6idgCfa0-V7V0z13xNYZ7nnvAosjxDh7243hA8A6lUOUZSTDA4OTYyQlZXTU00UzNTQ1JFNDkzUS4u) |
 | --- | --- | --- | --- | --- |
 
 # Why BankOfApiSDK?
