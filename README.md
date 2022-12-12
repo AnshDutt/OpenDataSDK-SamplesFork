@@ -187,7 +187,7 @@ You can get the SDK  directly from repository or through Maven or Gradle
       List<Branches> allBranches = branchesService.getBranchesByTownName("Aberaeron");
      ```
 
-# Roadma
+# Roadmap
 
 You can follow the latest updates and plans for BankOfAPI SDK for Java in the [Roadmap](https://github.com/dheerajrinku93/OpenDataSDKDocs/wiki#roadmap) published on our Wiki.
 
